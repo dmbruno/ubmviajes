@@ -1,0 +1,41 @@
+section {
+    font-style: italic;
+}
+
+div {
+    h6 {
+        color: gray;
+    }
+}
+
+
+.precio {
+    color: red;
+    margin-top: 40px;
+}
+
+
+.card-body {
+    height: 12.5rem;
+}
+.card-text{
+    padding-top: 1.25rem;
+}
+
+.tarifa {
+    margin-left: .625rem;
+    gap: .9375rem;
+    margin-bottom: .9375rem;
+}
+
+.precio {
+    margin-left: .625rem;
+}
+
+.pie {
+    margin: .3125rem;
+    padding: .625rem;
+    color: gray;
+    font-size: 14px;
+    border-top: 2px solid rgba(128, 128, 128, 0.435);
+}
