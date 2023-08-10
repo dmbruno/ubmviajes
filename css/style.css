@@ -2,10 +2,10 @@ section {
     font-style: italic;
 }
 
-div {
-    h6 {
+.card-body h6 {
+    
         color: gray;
-    }
+    
 }
 
 
